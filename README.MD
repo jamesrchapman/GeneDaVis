@@ -43,11 +43,11 @@ UCSC GeneDaVis is released under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-UCSC GeneDaVis was developed as part of a project by [Your Name] for [Course/Program Name] at [Institution Name].
+UCSC GeneDaVis was developed as part of a project by James Chapman for general use.
 
 Special thanks to the UCSC Genome project and the OpenMM team for their valuable resources and libraries.
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email].
+For any questions or inquiries, please contact James at jameschapman17@gmail.com.
 
